@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portainer on ezweber</title>
+    <link>https://ezweber.xyz/tags/portainer/</link>
+    <description>Recent content in Portainer on ezweber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2023 19:30:18 -0600</lastBuildDate>
+    <atom:link href="https://ezweber.xyz/tags/portainer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Portainer on an ESXi VM</title>
+      <link>https://ezweber.xyz/posts/portainer_setup_tutorial/</link>
+      <pubDate>Mon, 18 Dec 2023 19:30:18 -0600</pubDate>
+      <guid>https://ezweber.xyz/posts/portainer_setup_tutorial/</guid>
+      <description>Installing vShpere 8.0 The first thing we’re going to do is create a vSphere VM. I’m using VMware Workstation Pro, but you should be able to use any other hypervisor like VirtualBox or Hyper-V. Make sure you’re giving the VM ample RAM and CPU cores. ESXi requires at least 8 GBs of RAM and two CPU cores. My laptop I’m running this on has 16 GBs of RAM, so I’ll give the VM half of that.</description>
+    </item>
+  </channel>
+</rss>
